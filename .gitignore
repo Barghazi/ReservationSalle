@@ -1,0 +1,13 @@
+# Node
+node_modules/
+.env
+
+# Laravel
+/vendor
+/storage/*.key
+.env
+
+# React
+/frontend-react/node_modules
+/frontend-react/.env
+
